@@ -16,7 +16,7 @@
 
 本技能是 [QoderWork](https://qoder.com) Agent Skill，可在 QoderWork 桌面端安装并通过自然语言调用。
 
-> 📦 ClawHub 主页：[mozhihuidage/yescan-transoffice-universal](https://clawhub.ai/mozhihuidage/yescan-transoffice-universal)
+> 📦 ClawHub 主页：[yescan-transoffice-universal](https://clawhub.ai/yescan-ai/skills/yescan-transoffice-universal)
 
 ---
 
