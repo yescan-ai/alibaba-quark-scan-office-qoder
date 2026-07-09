@@ -6,19 +6,19 @@ yescan-office-qoder is an open-source Agent Skill for [QoderWork](https://qoder.
 
 ## Supported Scenes
 
-- [Image to Excel](https://github.com/yescan-ai/yescan-office-qoder): tables, financial reports, data sheets → editable `.xlsx`
-- [Image to Word](https://github.com/yescan-ai/yescan-office-qoder): contracts, long-form text, product manuals → `.docx`
-- [Image to PDF](https://github.com/yescan-ai/yescan-office-qoder): handwritten notes, equipment nameplates, whiteboard sketches → standard `.pdf`
+- [Image to Excel](https://github.com/alibaba-quark-scanking/alibaba-quark-transoffice-qoder): tables, financial reports, data sheets → editable `.xlsx`
+- [Image to Word](https://github.com/alibaba-quark-scanking/alibaba-quark-transoffice-qoder): contracts, long-form text, product manuals → `.docx`
+- [Image to PDF](https://github.com/alibaba-quark-scanking/alibaba-quark-transoffice-qoder): handwritten notes, equipment nameplates, whiteboard sketches → standard `.pdf`
 
 ## Docs
 
-- [README (bilingual: Chinese / English)](https://github.com/yescan-ai/yescan-office-qoder/blob/main/README.md): installation, usage, CLI interface, constraints
-- [SKILL.md](https://github.com/yescan-ai/yescan-office-qoder/blob/main/SKILL.md): agent-facing skill definition with intent matching rules
+- [README (bilingual: Chinese / English)](https://github.com/alibaba-quark-scanking/alibaba-quark-transoffice-qoder/blob/main/README.md): installation, usage, CLI interface, constraints
+- [SKILL.md](https://github.com/alibaba-quark-scanking/alibaba-quark-transoffice-qoder/blob/main/SKILL.md): agent-facing skill definition with intent matching rules
 - [Yescan Open Platform](https://scan.quark.cn/business): apply for API Key, API documentation
 
 ## Optional
 
 - [ClawHub Skill Page](https://clawhub.ai/mozhihuidage/yescan-transoffice-universal): install, downloads, ratings
 - [QoderWork](https://qoder.com): agent runtime environment
-- [yescan-ai GitHub Org](https://github.com/yescan-ai): more skills in the yescan family
-- [yescan-ocr-qoder](https://github.com/yescan-ai/yescan-ocr-qoder): sibling skill for text extraction and recognition
+- [alibaba-quark-scanking GitHub Org](https://github.com/alibaba-quark-scanking): more skills in the yescan family
+- [yescan-ocr-qoder](https://github.com/alibaba-quark-scanking/alibaba-quark-ocr-qoder): sibling skill for text extraction and recognition
